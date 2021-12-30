@@ -1,0 +1,1 @@
+# Django-Size-ID-Generation-Project
